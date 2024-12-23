@@ -1,6 +1,4 @@
-### `README.md`
-
-# DarkVision RAT Exploit Script
+# DarkVision RAT Password Recovery Vuln
 
 ## Summary
 
