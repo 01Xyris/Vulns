@@ -1,4 +1,4 @@
-# LiteHTTP/AnubisHTTP XSS Exploit Script
+# LiteHTTP/AnubisHTTP XSS 
 
 ## Summary
 
