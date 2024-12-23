@@ -1,5 +1,4 @@
-# DarkVision RAT Password Recovery Vuln
-
+# DarkVision RAT Password Recovery
 ## Summary
 
 This script exploits a vulnerability in DarkVision RAT's upload endpoint that allows arbitrary file uploads. By exploiting this weakness, a malicious PHP shell can be uploaded and executed, granting the attacker remote command execution (RCE) on the server.
