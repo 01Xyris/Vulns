@@ -1,0 +1,4 @@
+colorama==0.4.6
+pycryptodome==3.19.1
+rich==13.7.0
+scapy==2.4.5
