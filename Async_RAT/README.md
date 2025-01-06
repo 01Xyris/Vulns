@@ -14,4 +14,4 @@ Each simulated client sends random data, including payloads filled with random C
 python script_name.py -ip 127.0.0.1 -port 7707 -threads 50
 
 
-
+![image](https://github.com/user-attachments/assets/8bbc62cb-6332-436d-80df-a4ae607de55d)
