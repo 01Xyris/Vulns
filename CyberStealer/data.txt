@@ -1,0 +1,24 @@
++------------+--------------------------------------------+------+
+| Username   | Address                                    | Coin |
++------------+--------------------------------------------+------+
+| exploit    | 0x175Fa9E515BD123428aBBa5474F7cBDBF89ad68D | ETH  |
+| exploit    | bc1q8c0e9059ctgmzjxr67rjtnxewzyxkex42cd6tu | BTC  |
++------------+--------------------------------------------+------+
+| darkduck   | 0xe5086BE1cF89186159710EF4FcbB472748c44209 | BNB  |
+| darkduck   | 0xe5086BE1cF89186159710EF4FcbB472748c44209 | ETH  |
+| darkduck   | 0xe5086BE1cF89186159710EF4FcbB472748c44209 | SHIB |
+| darkduck   | 14dSmZtTxrEiR6zMdhgJ6bhR2LyT1sv5FW3oGVoXYSX | DOT  |
+| darkduck   | 27eaMsdNY3CskzfFqGoswL4qngbJj3Zm453e9uMNQ1p9 | SOL  |
+| darkduck   | addr1qx2eefqxpdcs5ptcse9agh4z9vreqsn06laurc | ADA  |
+| darkduck   | bc1qsmyve3a9nrry7vfmrr76dk669y5gtm55mx29lz | BTC  |
+| darkduck   | DDBSBjRKgh6JWEuFsf15rNFZm8jg7bnFhy         | DOGE |
+| darkduck   | LRAkR6sXGLo6RAhMQ5ByZ2J2rdwVfP8Gyw         | LTC  |
+| darkduck   | rrhXXiFT78781VoH4U5ULRDRNj3Lvj27No         | XRP  |
++------------+--------------------------------------------+------+
+| Luxy       | 0xf33ce2A12Fb9bB14eb84802c25af7749aC993906 | BNB  |
+| Luxy       | 0xf33ce2A12Fb9bB14eb84802c25af7749aC993906 | ETH  |
+| Luxy       | bc1q3zryfk7f2ralr4ppn65xn3f7kqmntpmh7dx4fj | BTC  |
+| Luxy       | LTxHgTHzDo5hjX7PpJHfzFZpmAtKBWM5h6         | LTC  |
++------------+--------------------------------------------+------+
+| cybervax   | 1                                          | BTC  |
++------------+--------------------------------------------+------+
